@@ -241,14 +241,6 @@ var radar_data = [{
                 movement: 'c'
             },
             {
-                name: 'AWS Cloud Formation',
-                pc: {
-                    r: 50,
-                    t: 25
-                },
-                movement: 't'
-            },
-            {
                 name: 'Terraform',
                 pc: {
                     r: 70,
@@ -307,6 +299,14 @@ var radar_data = [{
                     t: 80
                 },
                 movement: 'c'
+            },
+            {
+                name: 'AWS Cloud Formation',
+                pc: {
+                    r: 320,
+                    t: 60
+                },
+                movement: 't'
             },
             {
                 name: 'Stash',
